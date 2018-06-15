@@ -31,6 +31,9 @@
     "uglify-js": "~1.3.3",
     "mousetrap": "0.0.1"
   },
+  "resolutions": {
+    "reqursive/detective": "5.1.0"
+  },
   "repository": {
     "type": "git",
     "url": "git://github.com/hughsk/colony.git"
